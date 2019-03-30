@@ -18,6 +18,6 @@ I think the best thing you can do is
 
 <script>
  $GET My Function Beer(){
- $Beer = 10('beers' + 'Heineken').show();
+ $Beer = 12('beers' + 'Heineken_Light').show();
 }
 </script>
